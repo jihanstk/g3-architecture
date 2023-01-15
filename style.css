@@ -267,7 +267,7 @@ footer{
     .feature-list .description h1 {
         font-size: 11vw;
     }
-    /* feature-points */
+    /* feature-Love */
     .feature-love {
         display: flex;
         margin-top: 150px;
@@ -290,6 +290,10 @@ footer{
     .feature-love .point-focus h1 {
         font-size: 9vw;
       
+    }
+    .feature-love .point-focus p {
+      
+        padding-left: 15px;
     }
     /* facts style  */
     .facts > p {
